@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "wheels.h": "c",
+        "gray.h": "c",
+        "blueteeth.h": "c",
+        "duoji.h": "c",
+        "delay.h": "c",
+        "tim6.h": "c",
+        "iosfwd": "c",
+        "string": "c",
+        "xstring": "c",
+        "*.rh": "c",
+        "tim7.h": "c",
+        "move.h": "c",
+        "beep.h": "c",
+        "pid.h": "c",
+        "sys.h": "c",
+        "xutility": "c"
+    }
+}
